@@ -29,7 +29,6 @@ public class Main {
                 System.out.println("Terminado el proceso con PID: " + proccessList.get(i).pid());
                 proccessList.remove(i);
                 counter ++;
-g
             }
         }
     }
